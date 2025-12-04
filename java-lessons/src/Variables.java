@@ -11,7 +11,6 @@ class Student {
         this.studentName = studentName; //belongs to the specific object
         studentCount++;
         System.out.println(this.studentName + " is at " + SCHOOL_NAME + " for a total of " + studentCount + " students");
-        int counter = 0;
         
     }
 

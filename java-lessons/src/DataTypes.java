@@ -4,6 +4,10 @@ public class DataTypes {
 
         DataTypeExamples dt = new DataTypeExamples();
         System.out.println(dt.c);
+        System.out.println(dt.s);
+        System.out.println(dt.i);
+        System.out.println(dt.b);
+        System.out.println(dt.d);
     }
 }
 
